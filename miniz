@@ -1,0 +1,66 @@
+<!DOCTYPE html >
+
+< html  lang =" tr " >
+
+< kafa >
+  < meta  name =" msapplication-TileColor " içerik =" #da532c " >
+< meta  içerik =" Cave Rush " özelliği =" og:title " >
+< meta  content =" 3D eğlenceli bir mağarada hayatta kalma ve başarı oyunudur. " property =" og:description " >
+< meta  içerik =" #ffffff " data-react-helmet =" true " name =" tema rengi " >
+< meta  içerik =' https://cdn.discordapp.com/attachments/998188438253748316/998199138841808978/aIl2JH.png ' özelliği =' og:image ' />
+< meta  özellik =" og:image " >
+  
+    < meta  karakter kümesi =" UTF-8 " >
+    < meta  name =" viewport " content =" genişlik=cihaz genişliği, ilk ölçek=1.0 " >
+    < title > Cave Rush </ title >
+    < link  rel =" stil sayfası " href =" style.css " >
+    < link  rel =" stil sayfası " href =" https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css " />
+  < link  rel =" icon " type ="" href =" https://cdn.discordapp.com/attachments/894120519044050944/990559924075495444/game-controller.png " >
+    < komut dosyası  src =" https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js " > </ komut dosyası >
+</ kafa >
+
+< gövde >
+
+    <!-- gezinme çubuğu -->
+    < başlık >
+        < h1  class =" logo " > Cave Rush </ h1 >
+        < gezinme >
+            < ul  class =" gezinme alanı üst gezinme " >
+                < li > < a  href =" #top " > Ana Sayfa </ a > </ li >
+         < li > < a  href =" https://cdn.discordapp.com/attachments/998188438253748316/998201980042367037/about.jpg " > Hakkında </ a > </ li >
+                   < li > <a href =" https://youtu.be/u-1bLBINEis " > Fragman < / a  > < / li >         
+      < li > <a href =" https://github.com/caverush/caverush.github.io/blob/main/README.md " > BENİ OKU < / a  > </ li >         
+ </ ul >
+        </ gezinme >
+        < a  href =" https://cdn.discordapp.com/attachments/998188438253748316/998195499838488586/Cave_Rush.zip " class =" btn-area " > İNDİR </ a >
+    </ başlık >
+    <!-- gezinme çubuğu sonu -->
+    <!-- ana sayfa -->
+    < div  sınıfı =" sarmalayıcı " >
+        < div  class =" ana sayfa " id =" ana sayfa " >
+            < div  sınıfı =" ana metin " >
+                < h1  id =" botname " > Cave Rush </ h1 >
+                < h3  style =" margin-left: 0; " > [📢] DUYURU [📢]
+
+              </ h3 >
+                < p  class =" bot açıklaması " >
+                    Oyun bitmek üzere, yani şu anda oyunumuzu beta olarak test ediyoruz, yaptırıyoruz ama çok yakında beta sürümünden çıkacağımıza inanıyoruz..
+                    </ p >
+                
+           < a  href =" https://cdn.discordapp.com/attachments/998188438253748316/998195499838488586/Cave_Rush.zip " class =" btn-area " > İndir </ a >
+            </ div > 
+            < div  sınıfı =" ana sayfa img " >
+                < img  src =" https://cdn.discordapp.com/attachments/998188438253748316/998199138841808978/aIl2JH.png "
+                    alt ="" >
+            </ div >
+        </ div >
+    </ div >
+    <!-- ana sayfa sonu -->
+
+
+    
+    
+</ gövde >
+
+
+</ html >
